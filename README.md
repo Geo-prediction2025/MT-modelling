@@ -1,4 +1,4 @@
-This code is implemented based on MATLAB R2026a and is used for calculating the three-dimensional numerical simulation of MT with first type boundary conditions and mixed boundary conditions, taking into account the influence of anisotropy.
+This code is implemented based on MATLAB R2016a and is used for calculating the three-dimensional numerical simulation of MT with first type boundary conditions and mixed boundary conditions, taking into account the influence of anisotropy.
 The code description is as follows in test files.
 
 
@@ -9,6 +9,6 @@ If you want to access the source code and potentially contribute. You should fol
 
 Download 3D MT-modelling from the Github repository: https://github.com/Geo-prediction2025/MT-modelling.git.
 
-<h2>2. Install software MATLAB R2026a </h2>
+<h2>2. Install software MATLAB R2016a </h2>
 The specific installation steps can be found on the Matlab official website. This software is easy to install and implement.
 
