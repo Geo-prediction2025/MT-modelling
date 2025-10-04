@@ -21,6 +21,6 @@ rhoxxDF;rhoxxDT;rhoxxDT2;rhoxxtananiso01hz;rhoxyDF;rhoxyDT;rhoxyDT2;rhoxytananis
 
 <h2>4. Set calculation parameters </h2>
 Open the MT3DanisoDT file and set the parameters for the surrounding rock and anomalous body as follows:
-<img src="Code Description.png" alt="图片描述" width="200" height="150">
+<img src="Code Description.png" alt="图片描述" width="400" height="250">
 The anisotropic parameters of the surrounding rock are also set in the same way.
 Click on the green triangle or F5 in the toolbar to run and wait for the calculation to complete.
