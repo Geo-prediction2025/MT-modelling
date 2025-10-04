@@ -14,9 +14,9 @@ The specific installation steps can be found on the Matlab official website. For
 
 <h2>3. Open all files with MATLAB R2016a </h2>
 Use Matlab to import (Ctrl+O) and open all files:
-<h3>Main files:</h3>
+<h2>a)Main files: </h2>
 huatu1;MT3DanisoDT;MT3DanisoDT2; 
-<h3>Data files:</h3>
+<h2>b)Data files: </h2>
 rhoxxDF;rhoxxDT;rhoxxDT2;rhoxxtananiso01hz;rhoxyDF;rhoxyDT;rhoxyDT2;rhoxytananiso01hz;rhoyxDF;rhoyxDT;rhoyxDT2;rhoyxtananiso01hz;rhoyyDFrhoyyDT;rhoyyDT2;rhoyytananiso01hz
 
 <h2>4. Set calculation parameters </h2>
