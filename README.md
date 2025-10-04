@@ -24,3 +24,7 @@ Open the MT3DanisoDT file and set the parameters for the surrounding rock and an
 <img src="Code Description.png" alt="图片描述" width="500" height="350">
 The anisotropic parameters of the surrounding rock are also set in the same way.
 Click on the green triangle or F5 in the toolbar to run and wait for the calculation to complete.
+
+<h2>5. Draw apparent resistivity map </h2>
+The detailed operation of drawing can be found in the huatu1 file. Click to execute to obtain the comparison of isotropic and anisotropic MT response results based on mixed boundary conditions. The graphical result is as follows:
+<img src="Code Description.png" alt="图片描述" width="500" height="350">
