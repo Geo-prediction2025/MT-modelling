@@ -31,6 +31,6 @@ The detailed operation of drawing can be found in the huatu1 file. Click to exec
 
 <h2> Who do I talk to? </h2>
 
-Daiming Hu, Hunan University of Arts and Science, China
-mail:hdm0206@mail.ustc.edu.cn
+Daiming Hu, Hunan University of Arts and Science, China.
+mail:hdm0206@mail.ustc.edu.cn.
 We are sorry for any inconvenience.
