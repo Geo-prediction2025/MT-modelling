@@ -21,10 +21,6 @@ rhoxxDF;rhoxxDT;rhoxxDT2;rhoxxtananiso01hz;rhoxyDF;rhoxyDT;rhoxyDT2;rhoxytananis
 
 <h2>4. Set calculation parameters </h2>
 Open the MT3DanisoDT file and set the parameters for the surrounding rock and anomalous body as follows:
-rhoax=10.0;rhoay=10;rhoaz=10;%  anomaly resistivity in the main axis
-srhoa1=[1/rhoax 0 0;0 1/rhoay 0;0 0 1/rhoaz];
-thetaS=0/180*pi;  %Euler angle
-thetaD=0/180*pi;  %Euler angle
-thetaL=0/180*pi;  %Euler angle
+
 The anisotropic parameters of the surrounding rock are also set in the same way.
 Click on the green triangle or F5 in the toolbar to run and wait for the calculation to complete.
