@@ -10,5 +10,11 @@ If you want to access the source code and potentially contribute. You should fol
 Download 3D MT-modelling from the Github repository: https://github.com/Geo-prediction2025/MT-modelling.git.
 
 <h2>2. Install software MATLAB R2016a </h2>
-The specific installation steps can be found on the Matlab official website. This software is easy to install and implement. For students or individual users, MathWorks typically also offers genuine trial versions or discounted licenses. https://www.mathworks.com/campaigns/products/trials.html. For a free trial version here, which usually lasts for 30 days.
+The specific installation steps can be found on the Matlab official website. For students or individual users, MathWorks typically also offers genuine trial versions or discounted licenses. https://www.mathworks.com/campaigns/products/trials.html. For a free trial version here, which usually lasts for 30 days.
 
+<h2>3. Open all files with MATLAB R2016a </h2>
+Use Matlab to import (Ctrl+O) and open all files:
+a) Main files:
+huatu1;MT3DanisoDT;MT3DanisoDT2; 
+b) Data files:
+rhoxxDF;rhoxxDT;rhoxxDT2;rhoxxtananiso01hz;rhoxyDF;rhoxyDT;rhoxyDT2;rhoxytananiso01hz;rhoyxDF;rhoyxDT;rhoyxDT2;rhoyxtananiso01hz;rhoyyDFrhoyyDT;rhoyyDT2;rhoyytananiso01hz
