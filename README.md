@@ -28,3 +28,9 @@ Click on the green triangle or F5 in the toolbar to run and wait for the calcula
 <h2>5. Draw apparent resistivity map </h2>
 The detailed operation of drawing can be found in the huatu1 file. Click to execute to obtain the comparison of isotropic and anisotropic MT response results based on mixed boundary conditions. The graphical result is as follows:
 <img src="test results.png" alt="图片描述" width="500" height="350">
+
+<h2> Who do I talk to? </h2>
+
+Daiming Hu, Hunan University of Arts and Science, China
+mail:hdm0206@mail.ustc.edu.cn
+We are sorry for any inconvenience.
